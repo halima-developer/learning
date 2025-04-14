@@ -1,4 +1,3 @@
 this is write .txt file
 some text added to be successful for life you have to choose a dream
-you have to stuggle person
-i am learning github
+solving problem bug fixing
